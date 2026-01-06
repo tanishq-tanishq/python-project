@@ -79,7 +79,7 @@ plt.show()
 sns.pairplot(df, hue='species')
 plt.show()
 
-# Boxplot for petal length vs species
+# Boxplot forgit  petal length vs species
 sns.boxplot(x='species', y='petal length (cm)', data=df)
 plt.show()
 
